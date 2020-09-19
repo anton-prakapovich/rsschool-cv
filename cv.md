@@ -9,3 +9,9 @@ I want to be a junior frot-end developer. Now I'm actively learning JavaScript, 
 ## Technical skills  
 * **Programming languages and technologies:** JavaScript, HTML, CSS  
 * **Tools:** VSCode, Photoshop, GIT, Figma  
+
+## Code examples  
+You can see examples of my code [here](https://github.com/anton-prakapovich)  
+
+## Experience  
+I had no experience as a developer, but I have finished several courses on Udemy, Coursera, HTMLAcademy, Codecademy (HTML & CSS, JavaScript).  
