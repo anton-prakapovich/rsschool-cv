@@ -13,7 +13,7 @@ body {
 }
 
 .name {
-  margin-left: 20px;
+  margin-left: 40px;
 }
 
 .name h1 {
@@ -32,7 +32,7 @@ body {
 .navigation {
   display: flex;
   width: 500px;
-  margin-left: 150px;
+  margin-left: 110px;
   justify-content: space-between;
   font-size: 18px;
 }
@@ -66,4 +66,85 @@ main {
   width: 500px;
   margin: 200px 0 0 80px;
   font-size: 18px;
+}
+
+.skills {
+  width: 500px;
+  margin: 70px auto 0 auto;
+}
+
+.skills h2 {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.skills ul {
+  list-style-type: circle;
+}
+
+.skills li {
+  margin-bottom: 10px;
+}
+
+.skills li span {
+  font-weight: bold;
+}
+
+.experience {
+  width: 500px;
+  margin: 60px auto 0 auto;
+}
+
+.experience h2 {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.education {
+  width: 500px;
+  margin: 70px auto 0 auto;
+}
+
+.education h2 {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.education ul {
+  list-style-type: circle;
+}
+
+.education li {
+  padding-bottom: 10px;
+}
+
+
+.footer_wrapper {
+  height: 80px;
+  background: rgb(120, 237, 17); 
+}
+
+.contacts {
+  display: flex;
+  width: 900px;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+}
+
+.contacts a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+}
+
+.contacts a:hover {
+  color: rgb(77,77,77);
 }
