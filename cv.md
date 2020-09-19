@@ -15,3 +15,10 @@ You can see examples of my code [here](https://github.com/anton-prakapovich)
 
 ## Experience  
 I had no experience as a developer, but I have finished several courses on Udemy, Coursera, HTMLAcademy, Codecademy (HTML & CSS, JavaScript).  
+
+## Education  
+* Belarussian State University Of Informatic and Radioelectronics, Minsk, Belarus  
+* Codecademy  
+* LearnJavaScript  
+* HTMLAcademy  
+* **English:** Pre-Intermediate (A2)  
