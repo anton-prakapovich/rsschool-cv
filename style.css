@@ -3,6 +3,7 @@ body {
   margin: 0 auto;
   font-family: 'Lato', sans-serif;
   color: rgb(77,77,77);
+  background-color: rgb(234, 229, 229);
 }
 
 .header_wrapper {
@@ -43,4 +44,26 @@ body {
 
 .navigation a:hover {
   color: rgb(77,77,77);
+}
+
+main {
+  background: rgb(255, 255, 255);
+}
+
+.about {
+  display: flex;
+  padding-top: 70px;
+}
+
+.photo img {
+  height: 350px;
+  width: 350px;
+  opacity: 0.8;
+  border-radius: 50%;
+}
+
+.goal {
+  width: 500px;
+  margin: 200px 0 0 80px;
+  font-size: 18px;
 }
